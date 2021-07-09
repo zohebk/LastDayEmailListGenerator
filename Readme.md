@@ -1,4 +1,3 @@
-Read Me - PLEASE
 0) Install via PIP or Virtual ENV - pip install pypiwin32
 1) Dont run it without MS Outlook Open :)
 2) Run the program and you will see a csv created called "large.csv" which will be large if you have a ton of emails that you have received.
